@@ -10,8 +10,8 @@ class Filehandling1 {
         int co[] = new int[30];
         int in[] = new int[30];
         int k = 0, z = 0, n = 0;
-        File f = new File("prime.txt");
-        File b = new File("composite.txt");
+        File f = new File("prime.data");
+        File b = new File("composite.data");
         System.out.println();
         System.out.println("******* TO ADD THE NUMBERS TO RESPECTIVE FILES *******");
         System.out.println();
