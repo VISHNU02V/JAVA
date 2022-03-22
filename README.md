@@ -4,4 +4,4 @@
   
 <h2> OUTPUT </h2>
 
-[screenshot.docx](https://github.com/VISHNU02V/JAVA/files/8322568/screenshot.docx)
+![image](https://user-images.githubusercontent.com/84262256/159441405-7306e3f5-07e4-408c-8df9-f3972f039507.png)
