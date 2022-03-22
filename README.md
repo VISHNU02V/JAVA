@@ -11,4 +11,6 @@
   
   <h2> OUTPUT 2</h2>
   
-  ![image](https://user-images.githubusercontent.com/84262256/159510633-79956f7d-cdfb-487e-82f0-00cab8eb79de.png)
+  ![image](https://user-images.githubusercontent.com/84262256/159511913-2d97004e-4cde-45f3-a9b3-e48a11239b80.png)
+
+  ![image](https://user-images.githubusercontent.com/84262256/159511972-daeb8122-d33c-4d87-a37d-0b33d028bce2.png)
